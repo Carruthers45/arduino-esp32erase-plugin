@@ -22,4 +22,4 @@ On the OS X create the tools directory in ~/Documents/Arduino/ and unpack the fi
 
 ## Credits and license
 
-- Licensed under GPL v2 ([text](LICENSE))
+- Licensed under GPL v2 ([text](LICENSE.txt))
