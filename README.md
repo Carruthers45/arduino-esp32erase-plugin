@@ -1,4 +1,4 @@
-# Arduino ESP32 filesystem erase flash
+# Arduino ESP32 erase flash
 
 Arduino plugin to ESP32 erase flash memory.
 
